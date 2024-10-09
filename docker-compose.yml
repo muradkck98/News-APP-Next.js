@@ -12,7 +12,7 @@ services:
 
   frontend:
     build:
-      context: ./newsapp  # Next.js dizininizin yolu
+      context: ./news-app-frontend  # Next.js dizininizin yolu
       dockerfile: Dockerfile
     ports:
       - "3000:3000"

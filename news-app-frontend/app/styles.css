@@ -1,0 +1,20 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  .card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
+  .chart-container {
+    margin-top: 20px;
+  }
+  
+  /* Add more custom styles as needed */
+  
